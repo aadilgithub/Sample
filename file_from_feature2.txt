@@ -1,6 +1,8 @@
 file added from feature2 edited from master again
 edited from master2 updated from local
 edited from local master2
-updated in master
+updated in master, again updated in master
+
 
 added from local master
+
